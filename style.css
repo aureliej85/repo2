@@ -1,1 +1,10 @@
-style pour les cubes en css
+.carre {
+ width:100px;
+ height:100px;
+ background:blue;
+ margin:10px auto;
+}
+
+body {
+  min-height:150px;
+}
